@@ -13,6 +13,7 @@
 		76760D001E2B21C1005F7204 /* EjemBorrame.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 76760CFE1E2B21C1005F7204 /* EjemBorrame.xcdatamodeld */; };
 		76760D021E2B21C1005F7204 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76760D011E2B21C1005F7204 /* Assets.xcassets */; };
 		76760D051E2B21C1005F7204 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76760D031E2B21C1005F7204 /* LaunchScreen.storyboard */; };
+		76760D121E314903005F7204 /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76760D111E314903005F7204 /* CoreDataStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		76760D011E2B21C1005F7204 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		76760D041E2B21C1005F7204 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		76760D061E2B21C1005F7204 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		76760D111E314903005F7204 /* CoreDataStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				76760D031E2B21C1005F7204 /* LaunchScreen.storyboard */,
 				76760D061E2B21C1005F7204 /* Info.plist */,
 				76760CFE1E2B21C1005F7204 /* EjemBorrame.xcdatamodeld */,
+				76760D111E314903005F7204 /* CoreDataStack.swift */,
 			);
 			path = EjemBorrame;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				76760CFA1E2B21C1005F7204 /* ViewController.swift in Sources */,
 				76760CF81E2B21C1005F7204 /* AppDelegate.swift in Sources */,
 				76760D001E2B21C1005F7204 /* EjemBorrame.xcdatamodeld in Sources */,
+				76760D121E314903005F7204 /* CoreDataStack.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
